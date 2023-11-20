@@ -20,7 +20,7 @@ Fonksiyonları Ekleyin: Projede kullanılacak temel fonksiyonları ekleyin. Mark
 
 Kullanım
 Proje geliştirdikten sonra, kullanıcıların proje üzerinde etkileşimde bulunmaları için aşağıdaki adımları takip edebilirsiniz:
-
+Proje içerisinde yer alan rar dosyalarını proje bütünlüğü için çıkartın.
 Proje dosyalarını Unity'e İmport Edin.
 Unity içinde projeyi açın.
 Menü ekranından bir eşya seçin.
